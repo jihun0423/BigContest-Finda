@@ -1,5 +1,6 @@
-# 도배 하자 유형 분류 AI 경진대회  
-<https://dacon.io/competitions/official/236082/overview/description>  
+# 핀다 앱 사용성 데이터를 통한 대출 여부 예측 
+빅콘테스트 퓨처스리그
+https://www.bigcontest.or.kr/points/content.php#ct04
 
 
 <br />
