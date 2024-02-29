@@ -19,7 +19,7 @@ https://www.bigcontest.or.kr/points/content.php#ct04
 
 # 2. 참여 인원 / 기간 
 * 팀 프로젝트 (4인)
-* 2022년 9월 1일 ~ 2023년 12월 1일
+* 2022년 9월 1일 ~ 2022년 12월 1일
 
 <br />
 
